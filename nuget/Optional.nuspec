@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Optional</id>
+    <id>Optional31</id>
     <version>4.0.0</version>
-    <title>Optional: A robust option type</title>
-    <authors>Nils Lück</authors>
-    <owners>Nils Lück</owners>
-    <projectUrl>https://github.com/nlkl/Optional</projectUrl>
+    <title>Optional: A robust option type .net core 3.1</title>
+    <authors>Felipe</authors>
+    <owners>Felipe</owners>
+    <projectUrl>https://github.com/neperz/Optional</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/nlkl/Optional/master/icon/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Optional is a robust option/maybe type for C#.</description>
+    <description>Optional is a robust option/maybe type for C#. in .net core 3.1</description>
     <copyright>Copyright 2015</copyright>
     <tags>Option Some None Maybe Either Exception Null Monad Monadic Functional</tags>
   </metadata>

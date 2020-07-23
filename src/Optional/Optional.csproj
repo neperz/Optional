@@ -4,10 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <Version>3.2.1</Version>
-    <Authors>Nils Lück</Authors>
-    <Copyright>Copyright © 2014</Copyright>
+    <Version>1.0.0</Version>
+    <Authors>Felipe</Authors>
+    <Company>WikiCode</Company>
+    <Copyright>Copyright © 2020</Copyright>
     <NoWarn>1591</NoWarn>
+    <PackageProjectUrl>https://github.com/neperz/Optional</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/neperz/Optional</RepositoryUrl>
+    <PackageReleaseNotes>Versão portada para .net core 3.1</PackageReleaseNotes>
+    <PackageDescription>Optional is a robust option/maybe type for C#. in .net core 3.1</PackageDescription>
+    <PackageId>Optional31</PackageId>
   </PropertyGroup>
    
   
