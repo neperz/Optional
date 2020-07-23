@@ -1,7 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Optional.Utilities;
 using Optional.Tests.Utilities;
-
+using Optional.Utilities;
 using Ex = System.Exception;
 using Ex1 = System.ArgumentNullException;
 using Ex2 = System.Text.EncoderFallbackException;
