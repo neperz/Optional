@@ -1,8 +1,8 @@
 ![Optional](https://raw.githubusercontent.com/nlkl/Optional/master/icon/Logo.png)
 
-Optional is a robust option/maybe type for C#.
+Optional is a robust option/maybe type for C#. updated for .Net Core
 
-Version: 4.0.0
+Version: 4.0.1
 
 ## What and Why?
 
