@@ -17,7 +17,7 @@ Optional is a strongly typed alternative to null values that lets you:
 * Robust and well tested
 * Self contained with no dependencies
 * Easily installed through NuGet
-* Supports **.NET 3.5+** and **.NET Core** (.NET Standard 1.0+)
+* Supports   **.NET Core 3.1 **
 * Focused but full-featured API
 
 ## Installation
