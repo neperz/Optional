@@ -1,8 +1,8 @@
 ![Optional 3.1](https://raw.githubusercontent.com/nlkl/Optional/master/icon/Logo.png)
 
-Optional is a robust option/maybe type for C#. updated for .Net Core
+Optional 3.1 is a robust option/maybe type for C#. updated for .Net Core
 
-Version: 4.0.1
+Version: 1.0.0
 
 ## What and Why?
 
@@ -27,10 +27,10 @@ Simply reference Optional.dll and you are good to go!
 Optional is also available via NuGet:
 
 ```
-PM> Install-Package Optional 
+PM> Install-Package Optional31 -Version 1.0.0
 ```
 
-Or visit: [https://www.nuget.org/packages/Optional/](https://www.nuget.org/packages/Optional/)
+Or visit: [https://www.nuget.org/packages/Optional31/](https://www.nuget.org/packages/Optional31/)
 
 ## Core concepts
 
